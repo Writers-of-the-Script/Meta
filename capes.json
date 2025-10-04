@@ -29,10 +29,20 @@
         "cape": "dev",
         "name": "Minecraft_3699"
     },
-        {
+    {
         "uuid": "3ec4356b-ec20-437e-81ad-12c1af81dd45",
         "cape": "dev",
         "name": "Fridelit"
+    },
+    {
+        "uuid": "1c1f8991-0677-4a81-bc79-aedb0cdc907c",
+        "cape": "dev",
+        "name": "Garebear1513"
+    },
+    {
+        "uuid": "ffe39377-8cab-49a2-8445-8e7ea191cc5e",
+        "cape": "dev",
+        "name": "skinnerbks"
     },
     {
         "uuid": "f19fbb67-659d-4865-a546-b6cdaf487cb5",
