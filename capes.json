@@ -31,7 +31,7 @@
     },
     {
         "uuid": "3ec4356b-ec20-437e-81ad-12c1af81dd45",
-        "cape": "dev",
+        "cape": "contributor",
         "name": "Fridelit"
     },
     {
@@ -61,17 +61,17 @@
     },
     {
         "uuid": "23088966-c1fd-40df-9620-8f435aa547bb",
-        "cape": "contributor",
+        "cape": "dev",
         "name": "Donut5314"
     },
     {
         "uuid": "743e3214-5958-4076-9876-a05337a84749",
-        "cape": "contributor",
+        "cape": "dev",
         "name": "ThatAncient2"
     },
     {
         "uuid": "38714e47-bd84-42d3-bfe4-d2f78e8dbc68",
-        "cape": "contributor",
+        "cape": "dev",
         "name": "JDGGamer564"
     },
     {
@@ -83,6 +83,11 @@
         "uuid": "2f877994-ec35-47c4-8521-a41f894ae824",
         "cape": "dev",
         "name": "shadowmaster435"
+    },
+    {
+        "uuid": "5519aae9-86ca-4492-85d3-0ba4fd0a4902",
+        "cape": "dev",
+        "name": "Zetos_"
     },
     {
         "uuid": "6e4c9b0f-4e5c-4dae-851f-be050a608a06",
