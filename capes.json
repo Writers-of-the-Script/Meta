@@ -12,12 +12,7 @@
     {
         "uuid": "8bf4997b-f16e-4431-9b51-8768506710a3",
         "cape": "dev",
-        "name": "SilverGhost540"
-    },
-    {
-        "uuid": "21355c30-fb96-4370-aaab-a6a89d289b41",
-        "cape": "dev",
-        "name": "Wentworth_"
+        "name": "rdh540"
     },
     {
         "uuid": "0849bc57-4d67-414b-a371-b71c45e02a14",
@@ -30,19 +25,9 @@
         "name": "Minecraft_3699"
     },
     {
-        "uuid": "3ec4356b-ec20-437e-81ad-12c1af81dd45",
-        "cape": "dev",
-        "name": "Fridelit"
-    },
-    {
         "uuid": "1c1f8991-0677-4a81-bc79-aedb0cdc907c",
         "cape": "dev",
         "name": "Garebear1513"
-    },
-    {
-        "uuid": "ffe39377-8cab-49a2-8445-8e7ea191cc5e",
-        "cape": "dev",
-        "name": "skinnerbks"
     },
     {
         "uuid": "e632f409-6cdf-459a-a6e9-f4d1c2f5fcd9",
@@ -75,11 +60,6 @@
         "name": "DominikLOL"
     },
     {
-        "uuid": "6e4c9b0f-4e5c-4dae-851f-be050a608a06",
-        "cape": "contributor",
-        "name": "_TFN_"
-    },
-    {
         "uuid": "d80b49d1-213c-4f5a-8086-dc3e968725a2",
         "cape": "contributor",
         "name": "EvanTheEpic2723"
@@ -87,7 +67,7 @@
     {
         "uuid": "a7b105d5-9a24-4d32-98a8-a8ad1990cf66",
         "cape": "contributor",
-        "name": "JustXeon_"
+        "name": "Itzs_Echo"
     },
     {
         "uuid": "6cff622c-3eb9-473f-a65f-347d99807419",
@@ -98,5 +78,115 @@
         "uuid": "79e52617-1b09-422f-8a48-36e37ed1f654",
         "cape": "dev",
         "name": "Eyae"
+    },
+    {
+        "uuid": "f00e9df7-43af-4e87-a7b6-c06017315522",
+        "cape": "contributor",
+        "name": "dyaoff"
+    },
+    {
+        "uuid": "adc01ead-0e26-4364-ac7c-b2f426a0ac29",
+        "cape": "tester",
+        "name": "Ariral"
+    },
+    {
+        "uuid": "a622afbb-6f57-4b74-9a6d-fc225622447f",
+        "cape": "tester",
+        "name": "DoctorNightheart"
+    },
+    {
+        "uuid": "ed8925e8-5411-4aa6-8ba9-95941f600477",
+        "cape": "tester",
+        "name": "NovaShards_"
+    },
+    {
+        "uuid": "f9a57e22-99ca-4c6a-8edd-d8ec90e40b26",
+        "cape": "tester",
+        "name": "StephieTheCatboy"
+    },
+    {
+        "uuid": "76628066-dec6-4584-a5c3-3120cee28199",
+        "cape": "tester",
+        "name": "Mavender"
+    },
+    {
+        "uuid": "d7d0d4b0-298a-481b-bdbd-97f8611a7006",
+        "cape": "tester",
+        "name": "PressureRach"
+    },
+    {
+        "uuid": "52b5a8d9-e8be-4635-8d7d-e260bd5e9972",
+        "cape": "tester",
+        "name": "pinwheelie"
+    },
+    {
+        "uuid": "498d38a2-bf3c-4088-a866-be1854ed09f8",
+        "cape": "tester",
+        "name": "LostNeedMap"
+    },
+    {
+        "uuid": "17dc46f1-9492-464c-938b-1cd573adff4b",
+        "cape": "tester",
+        "name": "sceltiq"
+    },
+    {
+        "uuid": "797f1e70-3828-408a-bcbf-60807585a650",
+        "cape": "tester",
+        "name": "DeBlud"
+    },
+    {
+        "uuid": "84eac3fc-a29f-4cf6-8e6e-213b43a7fc31",
+        "cape": "tester",
+        "name": "psyychopomp"
+    },
+    {
+        "uuid": "2d71a14a-c79f-4a75-9ff3-602db7ffbd96",
+        "cape": "tester",
+        "name": "Magicalmeowing"
+    },
+    {
+        "uuid": "a46a2d53-566f-4488-896f-71dfea104919",
+        "cape": "tester",
+        "name": "dev_neo5608"
+    },
+        {
+        "uuid": "32d4b8e1-ef7d-4f9f-a400-c33403f45051",
+        "cape": "contributor",
+        "name": "FectoElfilis"
+    },
+    {
+        "uuid": "9e304cec-c66f-4a1d-a96a-2d04fe7cf8bf",
+        "cape": "tester",
+        "name": "FluffyGingerBoi"
+    },
+    {
+        "uuid": "e7cc810b-fb90-47b8-9270-7ff8acaf4326",
+        "cape": "tester",
+        "name": "Novanict"
+    },
+    {
+        "uuid": "433deba4-d895-43d9-a0ce-0d59cb21a28a",
+        "cape": "tester",
+        "name": "Crazy_Dragon007w"
+    },
+    {
+        "uuid": "9ea7f916-29ea-477c-ae47-857e88dfbc1b",
+        "cape": "tester",
+        "name": "PinkyMunanyo"
+    },
+    {
+        "uuid": "7c88e387-af1c-4a71-ac01-51a654121516",
+        "cape": "tester",
+        "name": "SoulShards_"
+    },
+    {
+        "uuid": "91977110-d908-4bad-b0ab-df80abeda850",
+        "cape": "tester",
+        "name": "zCoridium"
+    },
+    {
+        "uuid": "091801b0-273e-4581-958b-d76c71bb58e5",
+        "cape": "tester",
+        "name": "Akravomit"
     }
 ]
