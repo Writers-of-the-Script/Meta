@@ -93,5 +93,10 @@
         "uuid": "6cff622c-3eb9-473f-a65f-347d99807419",
         "cape": "contributor",
         "name": "RealLumiOff"
+    },
+    {
+        "uuid": "79e52617-1b09-422f-8a48-36e37ed1f654",
+        "cape": "tester",
+        "name": "Eyae"
     }
 ]
