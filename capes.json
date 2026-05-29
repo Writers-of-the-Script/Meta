@@ -188,5 +188,15 @@
         "uuid": "091801b0-273e-4581-958b-d76c71bb58e5",
         "cape": "tester",
         "name": "Akravomit"
+    },
+    {
+        "uuid": "494de44d-eee2-4e82-8b11-5cd7997976e8",
+        "cape": "tester",
+        "name": "FireLight34523"
+    },
+    {
+        "uuid": "1ccc9983-063e-46cb-a86e-7409c60c25a1",
+        "cape": "tester",
+        "name": "KERNEL_EXE"
     }
 ]
