@@ -198,5 +198,15 @@
         "uuid": "1ccc9983-063e-46cb-a86e-7409c60c25a1",
         "cape": "tester",
         "name": "KERNEL_EXE"
+    },
+    {
+        "uuid": "5ca29dab-e6a1-4f0d-b7aa-230f3fd429a0",
+        "cape": "tester",
+        "name": "TheBrokenEnd"
+    },
+    {
+        "uuid": "74fbacc0-985d-4544-a8ab-234c7a6929c1",
+        "cape": "tester",
+        "name": "rimasu"
     }
 ]
