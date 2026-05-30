@@ -121,7 +121,7 @@
     },
     {
         "uuid": "498d38a2-bf3c-4088-a866-be1854ed09f8",
-        "cape": "tester",
+        "cape": "contributor",
         "name": "LostNeedMap"
     },
     {
@@ -208,5 +208,15 @@
         "uuid": "74fbacc0-985d-4544-a8ab-234c7a6929c1",
         "cape": "tester",
         "name": "rimasu"
+    },
+    {
+        "uuid": "e65e7292-2a3d-46bf-9b04-39dd776cf89b",
+        "cape": "tester",
+        "name": "Miguel0740E"
+    },
+    {
+        "uuid": "8b6bd08f-4598-47dc-9c65-093b87cd0dd7",
+        "cape": "tester",
+        "name": "eyes0fheaven"
     }
 ]
