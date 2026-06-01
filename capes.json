@@ -223,5 +223,30 @@
         "uuid": "7daaa14d-251a-4556-beca-cf772b45bb71",
         "cape": "tester",
         "name": "_RyZe14_"
+    },
+    {
+        "uuid": "bff13d80-ce10-44de-bc9c-f2b171517db3",
+        "cape": "tester",
+        "name": "Carcharorannus"
+    },
+    {
+        "uuid": "150ac145-81e3-4e5c-9029-98009b3ea1e8",
+        "cape": "contributor",
+        "name": "Mafia_circuit"
+    },
+    {
+        "uuid": "4bb1e3cf-fc86-438e-b3f7-67d12beef51d",
+        "cape": "contributor",
+        "name": "Rabebe"
+    },
+    {
+        "uuid": "d556104f-bb17-466a-939a-aefc563c33cd",
+        "cape": "contributor",
+        "name": "NahBro2"
+    },
+    {
+        "uuid": "6bc0de70-d429-4a7b-8203-ba1e5c8ff299",
+        "cape": "tester",
+        "name": "Benzeel"
     }
 ]
