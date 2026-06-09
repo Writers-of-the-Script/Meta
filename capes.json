@@ -293,5 +293,10 @@
         "uuid": "6bc0de70-d429-4a7b-8203-ba1e5c8ff299",
         "cape": "tester",
         "name": "Benzeel"
+    },
+    {
+      "uuid": "ffe39377-8cab-49a2-8445-8e7ea191cc5e",
+      "cape": "tester",
+      "name": "skinnerbks"
     }
 ]
