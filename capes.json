@@ -12,12 +12,7 @@
     {
         "uuid": "8bf4997b-f16e-4431-9b51-8768506710a3",
         "cape": "dev",
-        "name": "SilverGhost540"
-    },
-    {
-        "uuid": "21355c30-fb96-4370-aaab-a6a89d289b41",
-        "cape": "dev",
-        "name": "Wentworth_"
+        "name": "rdh540"
     },
     {
         "uuid": "0849bc57-4d67-414b-a371-b71c45e02a14",
@@ -30,19 +25,9 @@
         "name": "Minecraft_3699"
     },
     {
-        "uuid": "3ec4356b-ec20-437e-81ad-12c1af81dd45",
-        "cape": "contributor",
-        "name": "Fridelit"
-    },
-    {
         "uuid": "1c1f8991-0677-4a81-bc79-aedb0cdc907c",
         "cape": "dev",
         "name": "Garebear1513"
-    },
-    {
-        "uuid": "ffe39377-8cab-49a2-8445-8e7ea191cc5e",
-        "cape": "dev",
-        "name": "skinnerbks"
     },
     {
         "uuid": "e632f409-6cdf-459a-a6e9-f4d1c2f5fcd9",
@@ -55,44 +40,24 @@
         "name": "tekkitdooood"
     },
     {
-        "uuid": "6ab51c91-ff69-4a14-831f-4b054659fe46",
-        "cape": "dev",
-        "name": "EldritchUnknown"
-    },
-    {
         "uuid": "23088966-c1fd-40df-9620-8f435aa547bb",
         "cape": "dev",
         "name": "Donut5314"
     },
     {
         "uuid": "743e3214-5958-4076-9876-a05337a84749",
-        "cape": "dev",
+        "cape": "contributor",
         "name": "ThatAncient2"
     },
     {
         "uuid": "38714e47-bd84-42d3-bfe4-d2f78e8dbc68",
-        "cape": "dev",
+        "cape": "contributor",
         "name": "JDGGamer564"
     },
     {
         "uuid": "7852b781-518c-4e3e-8d76-eca585660d4d",
         "cape": "dev",
         "name": "DominikLOL"
-    },
-    {
-        "uuid": "2f877994-ec35-47c4-8521-a41f894ae824",
-        "cape": "dev",
-        "name": "shadowmaster435"
-    },
-    {
-        "uuid": "5519aae9-86ca-4492-85d3-0ba4fd0a4902",
-        "cape": "dev",
-        "name": "Zetos_"
-    },
-    {
-        "uuid": "6e4c9b0f-4e5c-4dae-851f-be050a608a06",
-        "cape": "contributor",
-        "name": "_TFN_"
     },
     {
         "uuid": "d80b49d1-213c-4f5a-8086-dc3e968725a2",
@@ -102,11 +67,236 @@
     {
         "uuid": "a7b105d5-9a24-4d32-98a8-a8ad1990cf66",
         "cape": "contributor",
-        "name": "JustXeon_"
+        "name": "Itzs_Echo"
     },
     {
         "uuid": "6cff622c-3eb9-473f-a65f-347d99807419",
         "cape": "contributor",
         "name": "RealLumiOff"
+    },
+    {
+        "uuid": "79e52617-1b09-422f-8a48-36e37ed1f654",
+        "cape": "dev",
+        "name": "Eyae"
+    },
+    {
+        "uuid": "72051012-1117-4c1c-a1b4-24a4d1fc6886",
+        "cape": "dev",
+        "name": "LordYharim"
+    },
+    {
+        "uuid": "07febe18-4d28-4e54-bf02-b1a89a0d5058",
+        "cape": "dev",
+        "name": "pyritor"
+    },
+    {
+        "uuid": "9b09a9da-5ba5-42d7-86d2-362c1a053258",
+        "cape": "dev",
+        "name": "Raevant"
+    },
+    {
+        "uuid": "5519aae9-86ca-4492-85d3-0ba4fd0a4902",
+        "cape": "dev",
+        "name": "Zetos_"
+    },
+    {
+        "uuid": "38714e47-bd84-42d3-bfe4-d2f78e8dbc68",
+        "cape": "dev",
+        "name": "Darkxwolf7teen"
+    },
+    {
+        "uuid": "6ab51c91-ff69-4a14-831f-4b054659fe46",
+        "cape": "dev",
+        "name": "EldritchUnknown"
+    },
+    {
+        "uuid": "82aa54c4-c65a-4a66-8ef8-39388a612480",
+        "cape": "dev",
+        "name": "ChoosingBerry"
+    },
+    {
+        "uuid": "e7252b66-80f2-4a52-b51b-49a0d1d4f6f4",
+        "cape": "dev",
+        "name": "Pencil_Html"
+    },
+    {
+        "uuid": "37f98c22-d293-4c64-83cd-a11b08a02ef7",
+        "cape": "dev",
+        "name": "Friria"
+    },
+    {
+        "uuid": "2f877994-ec35-47c4-8521-a41f894ae824",
+        "cape": "dev",
+        "name": "shadowmaster435"
+    },
+    {
+        "uuid": "f00e9df7-43af-4e87-a7b6-c06017315522",
+        "cape": "contributor",
+        "name": "dyaoff"
+    },
+    {
+        "uuid": "adc01ead-0e26-4364-ac7c-b2f426a0ac29",
+        "cape": "tester",
+        "name": "Ariral"
+    },
+    {
+        "uuid": "a622afbb-6f57-4b74-9a6d-fc225622447f",
+        "cape": "tester",
+        "name": "DoctorNightheart"
+    },
+    {
+        "uuid": "ed8925e8-5411-4aa6-8ba9-95941f600477",
+        "cape": "tester",
+        "name": "NovaShards_"
+    },
+    {
+        "uuid": "f9a57e22-99ca-4c6a-8edd-d8ec90e40b26",
+        "cape": "tester",
+        "name": "StephieTheCatboy"
+    },
+    {
+        "uuid": "76628066-dec6-4584-a5c3-3120cee28199",
+        "cape": "tester",
+        "name": "Mavender"
+    },
+    {
+        "uuid": "d7d0d4b0-298a-481b-bdbd-97f8611a7006",
+        "cape": "contributor",
+        "name": "PressureRach"
+    },
+    {
+        "uuid": "52b5a8d9-e8be-4635-8d7d-e260bd5e9972",
+        "cape": "tester",
+        "name": "pinwheelie"
+    },
+    {
+        "uuid": "498d38a2-bf3c-4088-a866-be1854ed09f8",
+        "cape": "dev",
+        "name": "LostNeedMap"
+    },
+    {
+        "uuid": "17dc46f1-9492-464c-938b-1cd573adff4b",
+        "cape": "tester",
+        "name": "sceltiq"
+    },
+    {
+        "uuid": "797f1e70-3828-408a-bcbf-60807585a650",
+        "cape": "tester",
+        "name": "DeBlud"
+    },
+    {
+        "uuid": "84eac3fc-a29f-4cf6-8e6e-213b43a7fc31",
+        "cape": "tester",
+        "name": "psyychopomp"
+    },
+    {
+        "uuid": "2d71a14a-c79f-4a75-9ff3-602db7ffbd96",
+        "cape": "tester",
+        "name": "Magicalmeowing"
+    },
+    {
+        "uuid": "a46a2d53-566f-4488-896f-71dfea104919",
+        "cape": "tester",
+        "name": "dev_neo5608"
+    },
+        {
+        "uuid": "32d4b8e1-ef7d-4f9f-a400-c33403f45051",
+        "cape": "contributor",
+        "name": "FectoElfilis"
+    },
+    {
+        "uuid": "9e304cec-c66f-4a1d-a96a-2d04fe7cf8bf",
+        "cape": "tester",
+        "name": "FluffyGingerBoi"
+    },
+    {
+        "uuid": "e7cc810b-fb90-47b8-9270-7ff8acaf4326",
+        "cape": "tester",
+        "name": "Novanict"
+    },
+    {
+        "uuid": "433deba4-d895-43d9-a0ce-0d59cb21a28a",
+        "cape": "tester",
+        "name": "Crazy_Dragon007w"
+    },
+    {
+        "uuid": "9ea7f916-29ea-477c-ae47-857e88dfbc1b",
+        "cape": "tester",
+        "name": "PinkyMunanyo"
+    },
+    {
+        "uuid": "7c88e387-af1c-4a71-ac01-51a654121516",
+        "cape": "tester",
+        "name": "SoulShards_"
+    },
+    {
+        "uuid": "91977110-d908-4bad-b0ab-df80abeda850",
+        "cape": "tester",
+        "name": "zCoridium"
+    },
+    {
+        "uuid": "494de44d-eee2-4e82-8b11-5cd7997976e8",
+        "cape": "tester",
+        "name": "FireLight34523"
+    },
+    {
+        "uuid": "1ccc9983-063e-46cb-a86e-7409c60c25a1",
+        "cape": "tester",
+        "name": "KERNEL_EXE"
+    },
+    {
+        "uuid": "5ca29dab-e6a1-4f0d-b7aa-230f3fd429a0",
+        "cape": "contributor",
+        "name": "TheBrokenEnd"
+    },
+    {
+        "uuid": "74fbacc0-985d-4544-a8ab-234c7a6929c1",
+        "cape": "tester",
+        "name": "rimasu"
+    },
+    {
+        "uuid": "e65e7292-2a3d-46bf-9b04-39dd776cf89b",
+        "cape": "tester",
+        "name": "Miguel0740E"
+    },
+    {
+        "uuid": "8b6bd08f-4598-47dc-9c65-093b87cd0dd7",
+        "cape": "tester",
+        "name": "eyes0fheaven"
+    },
+    {
+        "uuid": "7daaa14d-251a-4556-beca-cf772b45bb71",
+        "cape": "tester",
+        "name": "_RyZe14_"
+    },
+    {
+        "uuid": "bff13d80-ce10-44de-bc9c-f2b171517db3",
+        "cape": "tester",
+        "name": "Carcharorannus"
+    },
+    {
+        "uuid": "150ac145-81e3-4e5c-9029-98009b3ea1e8",
+        "cape": "contributor",
+        "name": "Mafia_circuit"
+    },
+    {
+        "uuid": "4bb1e3cf-fc86-438e-b3f7-67d12beef51d",
+        "cape": "contributor",
+        "name": "Rabebe"
+    },
+    {
+        "uuid": "d556104f-bb17-466a-939a-aefc563c33cd",
+        "cape": "contributor",
+        "name": "NahBro2"
+    },
+    {
+        "uuid": "6bc0de70-d429-4a7b-8203-ba1e5c8ff299",
+        "cape": "tester",
+        "name": "Benzeel"
+    },
+    {
+      "uuid": "ffe39377-8cab-49a2-8445-8e7ea191cc5e",
+      "cape": "tester",
+      "name": "skinnerbks"
     }
 ]
