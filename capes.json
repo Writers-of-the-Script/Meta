@@ -130,11 +130,6 @@
         "name": "shadowmaster435"
     },
     {
-        "uuid": "f00e9df7-43af-4e87-a7b6-c06017315522",
-        "cape": "contributor",
-        "name": "dyaoff"
-    },
-    {
         "uuid": "adc01ead-0e26-4364-ac7c-b2f426a0ac29",
         "cape": "tester",
         "name": "Ariral"
@@ -298,5 +293,10 @@
       "uuid": "ffe39377-8cab-49a2-8445-8e7ea191cc5e",
       "cape": "tester",
       "name": "skinnerbks"
+    },
+    {
+      "uuid": "c627e5cb-99bc-44f6-b894-26df738c2381",
+      "cape": "tester",
+      "name": "irljinx"
     }
 ]
