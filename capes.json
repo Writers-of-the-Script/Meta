@@ -358,5 +358,10 @@
         "uuid": "d597eaf2-d68e-410b-870f-5f71e5ad7457",
         "cape": "tester",
         "name": "Auromancy"
+    },
+    {
+        "uuid": "5bfc3b0f-e7be-4e26-805b-4b402fefe137",
+        "cape": "tester",
+        "name": "Aszellem"
     }
 ]
