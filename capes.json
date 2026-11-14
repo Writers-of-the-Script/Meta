@@ -66,7 +66,7 @@
     },
     {
         "uuid": "6cff622c-3eb9-473f-a65f-347d99807419",
-        "cape": "contributor",
+        "cape": "dev",
         "name": "RealLumiOff"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
         "uuid": "9ea7f916-29ea-477c-ae47-857e88dfbc1b",
-        "cape": "tester",
+        "cape": "dev",
         "name": "PinkyMunanyo"
     },
     {
@@ -363,5 +363,20 @@
         "uuid": "5bfc3b0f-e7be-4e26-805b-4b402fefe137",
         "cape": "tester",
         "name": "Aszellem"
+    },
+    {
+        "uuid": "6a92a97e-9a0a-4b99-bb9b-15936d2c6e32",
+        "cape": "dev",
+        "name": "ProbsMorningstar"
+    },
+    {
+        "uuid": "7136ccae-dced-4b36-997a-e6ea8b925c4c",
+        "cape": "dev",
+        "name": "randej_voo"
+    },
+    {
+        "uuid": "6105bf92-6c74-4e62-a869-723518d12e6e",
+        "cape": "dev",
+        "name": "Bischipp"
     }
 ]
