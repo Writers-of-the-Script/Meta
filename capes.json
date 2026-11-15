@@ -30,11 +30,6 @@
         "name": "Garebear1513"
     },
     {
-        "uuid": "e632f409-6cdf-459a-a6e9-f4d1c2f5fcd9",
-        "cape": "dev",
-        "name": "L0V3M1ST"
-    },
-    {
         "uuid": "ed8707c4-1682-4f2b-8012-084b6d0c939b",
         "cape": "dev",
         "name": "tekkitdooood"
@@ -71,7 +66,7 @@
     },
     {
         "uuid": "6cff622c-3eb9-473f-a65f-347d99807419",
-        "cape": "contributor",
+        "cape": "dev",
         "name": "RealLumiOff"
     },
     {
@@ -141,7 +136,7 @@
     },
     {
         "uuid": "ed8925e8-5411-4aa6-8ba9-95941f600477",
-        "cape": "tester",
+        "cape": "contributor",
         "name": "NovaShards_"
     },
     {
@@ -216,12 +211,12 @@
     },
     {
         "uuid": "9ea7f916-29ea-477c-ae47-857e88dfbc1b",
-        "cape": "tester",
+        "cape": "dev",
         "name": "PinkyMunanyo"
     },
     {
         "uuid": "7c88e387-af1c-4a71-ac01-51a654121516",
-        "cape": "tester",
+        "cape": "contributor",
         "name": "SoulShards_"
     },
     {
@@ -256,7 +251,7 @@
     },
     {
         "uuid": "8b6bd08f-4598-47dc-9c65-093b87cd0dd7",
-        "cape": "tester",
+        "cape": "contributor",
         "name": "eyes0fheaven"
     },
     {
@@ -290,13 +285,103 @@
         "name": "Benzeel"
     },
     {
-      "uuid": "ffe39377-8cab-49a2-8445-8e7ea191cc5e",
-      "cape": "tester",
-      "name": "skinnerbks"
+        "uuid": "ffe39377-8cab-49a2-8445-8e7ea191cc5e",
+        "cape": "tester",
+        "name": "skinnerbks"
     },
     {
-      "uuid": "c627e5cb-99bc-44f6-b894-26df738c2381",
-      "cape": "tester",
-      "name": "irljinx"
+        "uuid": "c627e5cb-99bc-44f6-b894-26df738c2381",
+        "cape": "tester",
+        "name": "irljinx"
+    },
+    {
+        "uuid": "ecc2b4ac-0213-459a-ab5a-c0dcfa29e679",
+        "cape": "dev",
+        "name": "lastxbreath_"
+    },
+    {
+        "uuid": "8beebd2c-aade-47a7-a022-2bdab3665e90",
+        "cape": "tester",
+        "name": "Meralin_"
+    },
+    {
+        "uuid": "c2194e24-9fa9-44f1-a1cc-d982b247ce71",
+        "cape": "tester",
+        "name": "Guigui_aura"
+    },
+    {
+        "uuid": "8c54aea3-5120-4978-9b7e-1baed995ea63",
+        "cape": "tester",
+        "name": "Zorgoliath"
+    },
+    {
+        "uuid": "781d55a8-5b21-43fc-adb8-9f14af2afbe5",
+        "cape": "tester",
+        "name": "Muribbeiro"
+    },
+    {
+        "uuid": "fa85a03b-5639-4eb4-bb4e-6c6393a9ed68",
+        "cape": "tester",
+        "name": "Eknoh"
+    },
+    {
+        "uuid": "4fb1c653-9b5f-4287-8469-f1a5eed1621e",
+        "cape": "tester",
+        "name": "totallynot_jay"
+    },
+    {
+        "uuid": "d3c9374e-e254-4075-b566-f173c42b103d",
+        "cape": "tester",
+        "name": "SpiffRat"
+    },
+    {
+        "uuid": "29d6e087-c0fd-4f5b-ad17-e76a920b1c2b",
+        "cape": "dev",
+        "name": "Bennie_2007"
+    },
+    {
+        "uuid": "9e13e181-49e0-4776-960b-63874cb83659",
+        "cape": "tester",
+        "name": "rusyashka"
+    },
+    {
+        "uuid": "b70f3543-aa68-4b2d-9b48-1e06a8ca04f3",
+        "cape": "tester",
+        "name": "ElinderPlays"
+    },
+    {
+        "uuid": "5f33e6fd-d427-424b-9ed5-3703b375a8dd",
+        "cape": "tester",
+        "name": "WaterBeanz"
+    },
+    {
+        "uuid": "d597eaf2-d68e-410b-870f-5f71e5ad7457",
+        "cape": "tester",
+        "name": "Auromancy"
+    },
+    {
+        "uuid": "5bfc3b0f-e7be-4e26-805b-4b402fefe137",
+        "cape": "tester",
+        "name": "Aszellem"
+    },
+    {
+        "uuid": "6a92a97e-9a0a-4b99-bb9b-15936d2c6e32",
+        "cape": "dev",
+        "name": "ProbsMorningstar"
+    },
+    {
+        "uuid": "7136ccae-dced-4b36-997a-e6ea8b925c4c",
+        "cape": "dev",
+        "name": "randej_voo"
+    },
+    {
+        "uuid": "6105bf92-6c74-4e62-a869-723518d12e6e",
+        "cape": "dev",
+        "name": "Bischipp"
+    },
+    {
+        "uuid": "73bcef80-5050-472f-89c4-e5937a9bc5d4",
+        "cape": "dev",
+        "name": "Starbreak"
     }
 ]
